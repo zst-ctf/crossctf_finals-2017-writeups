@@ -1,0 +1,6 @@
+o -> xor
+then x -> add 8
+
+47 6f 76 54 65 63 68 7b 41 46 43 7d
+GovTech{AFC}
+GovTech{ABC}

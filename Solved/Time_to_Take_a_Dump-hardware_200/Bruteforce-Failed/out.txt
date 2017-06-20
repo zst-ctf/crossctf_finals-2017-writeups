@@ -1,0 +1,32 @@
+>> 
+>> 
+>> 
+>> a
+
+>> a
+
+>> Encoded string is:	nvXynvXy//==
+
+>> Try again!
+
+>> Enter the secret password to login: a
+
+TRIED: 1
+>> Encoded string is:	nvXy//==
+
+>> Try again!
+
+>> Enter the secret password to login: CrossCTF{B1
+
+TRIED: 2
+>> Encoded string is:	vI2QjIy8q7mEvc718v/=
+
+>> Try again!
+
+>> Enter the secret password to login: CrossCTF{B2
+
+TRIED: 3
+>> Encoded string is:	vI2QjIy8q7mEvc318v/=
+
+>> Try again!
+

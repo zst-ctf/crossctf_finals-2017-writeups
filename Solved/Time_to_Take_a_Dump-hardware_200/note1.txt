@@ -1,0 +1,56 @@
+CrassCTF{TH1Z_i5_tH3_3asi3s7_CTF_evar}
+=================================================================================
+Cras
+ 12420 73435446 7b544831 5a5f6935 5f744833  sCTF{TH1Z_i5_tH3
+ 12430 5f336173 69337337 5f435446 5f657661  _3asi3s7_CTF_eva
+ 12440 727d0a00 76493251 6a497938 71376d45  r}
+
+
+ you havehe secree <3
+
+
+ Cras
+ 12420 73435446 7b544831 5a5f6935 5f744833  sCTF{TH1Z_i5_tH3
+ 12430 5f336173 69337337 5f435446 5f657661  _3asi3s7_CTF_eva
+ 12440 727d0a00 76493251 6a497938 71376d45  r}..vI2QjIy8q7mE
+ 12450 765a364d 7a4d6e4c 6f4d3646 6f4a6565  vZ6MzMnLoM6FoJee
+ 12460 6a5a7543 39662f3d 00656664 37363664  jZuC9f/=.efd766d
+=================================================================================
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890
+
+vI2QjIy8q7mEvZ6MzMnLoM6FoJeejZuC9f/=
+
+=================================================================================
+
+// The 
+CrassCTF{TH1Z_i5_tH3_3asi3s7_CTF_evar}
+
+
+vI2QjIy8q7mEvZ6MzMnLoM6FoJeejZuC9f/=efd766dd64a91ac3c57d34dd10c115e7486bc24da2f50cfee3941dd7f9dc5e70
+
+Enter the secret password to login: CrossCTF{\n\r
+Encoded string is:	vI2QjIy8q7mEo5Gjjf/=
+Try again!
+Enter the secret password to login: 
+
+CrassCTF{\n\rEncoded string is:	vI2ejIy8q7mEo5Gjjf/=
+Try again!
+Enter the secret password to login: 
+
+Enter the secret password to login: CrossCTF\n\r
+Encoded string is:	vI2QjIy8q7mjkaON//==
+Try again!
+Enter the secret password to login: 
+
+Enter the secret password to login: CrossCTF{\n\r
+Encoded string is:	vI2QjIy8q7mEo5Gjjf/=
+Try again!
+Enter the secret password to login: 
+
+
+Enter the secret password to login: CrossCTF{ABCD}\nEncoded string is:	vI2QjIy8q7mEvr28u4Kjkf/=
+Try again!
+
+
+efd766dd64a91ac3c57d34dd10c115e7486bc24da2f50cfee3941dd7f9dc5e70

@@ -1,0 +1,367 @@
+>> 
+>> 
+>> a
+
+>> Encoded string is:	nvX/
+
+>> Try again!
+
+>> Enter the secret password to login: a
+
+TRIED: b
+>> Encoded string is:	nvX/
+
+>> Try again!
+
+>> Enter the secret password to login: b
+
+TRIED: c
+>> Encoded string is:	nfX/
+
+>> Try again!
+
+>> Enter the secret password to login: c
+
+TRIED: d
+>> Encoded string is:	nPX/
+
+>> Try again!
+
+>> Enter the secret password to login: d
+
+TRIED: e
+>> Encoded string is:	m/X/
+
+>> Try again!
+
+>> Enter the secret password to login: e
+
+TRIED: f
+>> Encoded string is:	mvX/
+
+>> Try again!
+
+>> Enter the secret password to login: f
+
+TRIED: g
+>> Encoded string is:	mfX/
+
+>> Try again!
+
+>> Enter the secret password to login: g
+
+TRIED: h
+>> Encoded string is:	mPX/
+
+>> Try again!
+
+>> Enter the secret password to login: h
+
+TRIED: i
+>> Encoded string is:	l/X/
+
+>> Try again!
+
+>> Enter the secret password to login: i
+
+TRIED: j
+>> Encoded string is:	lvX/
+
+>> Try again!
+
+>> Enter the secret password to login: j
+
+TRIED: k
+>> Encoded string is:	lfX/
+
+>> Try again!
+
+>> Enter the secret password to login: k
+
+TRIED: l
+>> Encoded string is:	lPX/
+
+>> Try again!
+
+>> Enter the secret password to login: l
+
+TRIED: m
+>> Encoded string is:	k/X/
+
+>> Try again!
+
+>> Enter the secret password to login: m
+
+TRIED: n
+>> Encoded string is:	kvX/
+
+>> Try again!
+
+>> Enter the secret password to login: n
+
+TRIED: o
+>> Encoded string is:	kfX/
+
+>> Try again!
+
+>> Enter the secret password to login: o
+
+TRIED: p
+>> Encoded string is:	kPX/
+
+>> Try again!
+
+>> Enter the secret password to login: p
+
+TRIED: q
+>> Encoded string is:	j/X/
+
+>> Try again!
+
+>> Enter the secret password to login: q
+
+TRIED: r
+>> Encoded string is:	jvX/
+
+>> Try again!
+
+>> Enter the secret password to login: r
+
+TRIED: s
+>> Encoded string is:	jfX/
+
+>> Try again!
+
+>> Enter the secret password to login: s
+
+TRIED: t
+>> Encoded string is:	jPX/
+
+>> Try again!
+
+>> Enter the secret password to login: t
+
+TRIED: u
+>> Encoded string is:	i/X/
+
+>> Try again!
+
+>> Enter the secret password to login: u
+
+TRIED: v
+>> Encoded string is:	ivX/
+
+>> Try again!
+
+>> Enter the secret password to login: v
+
+TRIED: w
+>> Encoded string is:	ifX/
+
+>> Try again!
+
+>> Enter the secret password to login: w
+
+TRIED: x
+>> Encoded string is:	iPX/
+
+>> Try again!
+
+>> Enter the secret password to login: x
+
+TRIED: y
+>> Encoded string is:	h/X/
+
+>> Try again!
+
+>> Enter the secret password to login: y
+
+TRIED: z
+>> Encoded string is:	hvX/
+
+>> Try again!
+
+>> Enter the secret password to login: z
+
+TRIED: A
+>> Encoded string is:	hfX/
+
+>> Try again!
+
+>> Enter the secret password to login: A
+
+TRIED: B
+>> Encoded string is:	vvX/
+
+>> Try again!
+
+>> Enter the secret password to login: B
+
+TRIED: C
+>> Encoded string is:	vfX/
+
+>> Try again!
+
+>> Enter the secret password to login: C
+
+TRIED: D
+>> Encoded string is:	vPX/
+
+>> Try again!
+
+>> Enter the secret password to login: D
+
+TRIED: E
+>> Encoded string is:	u/X/
+
+>> Try again!
+
+>> Enter the secret password to login: E
+
+TRIED: F
+>> Encoded string is:	uvX/
+
+>> Try again!
+
+>> Enter the secret password to login: F
+
+TRIED: G
+>> Encoded string is:	ufX/
+
+>> Try again!
+
+>> Enter the secret password to login: G
+
+TRIED: H
+>> Encoded string is:	uPX/
+
+>> Try again!
+
+>> Enter the secret password to login: H
+
+TRIED: I
+>> Encoded string is:	t/X/
+
+>> Try again!
+
+>> Enter the secret password to login: I
+
+TRIED: J
+>> Encoded string is:	tvX/
+
+>> Try again!
+
+>> Enter the secret password to login: J
+
+TRIED: K
+>> Encoded string is:	tfX/
+
+>> Try again!
+
+>> Enter the secret password to login: K
+
+TRIED: L
+>> Encoded string is:	tPX/
+
+>> Try again!
+
+>> Enter the secret password to login: L
+
+TRIED: M
+>> Encoded string is:	s/X/
+
+>> Try again!
+
+>> Enter the secret password to login: M
+
+TRIED: N
+>> Encoded string is:	svX/
+
+>> Try again!
+
+>> Enter the secret password to login: N
+
+TRIED: O
+>> Encoded string is:	sfX/
+
+>> Try again!
+
+>> Enter the secret password to login: O
+
+TRIED: P
+>> Encoded string is:	sPX/
+
+>> Try again!
+
+>> Enter the secret password to login: P
+
+TRIED: Q
+>> Encoded string is:	r/X/
+
+>> Try again!
+
+>> Enter the secret password to login: Q
+
+TRIED: R
+>> Encoded string is:	rvX/
+
+>> Try again!
+
+>> Enter the secret password to login: R
+
+TRIED: S
+>> Encoded string is:	rfX/
+
+>> Try again!
+
+>> Enter the secret password to login: S
+
+TRIED: T
+>> Encoded string is:	rPX/
+
+>> Try again!
+
+>> Enter the secret password to login: T
+
+TRIED: U
+>> Encoded string is:	q/X/
+
+>> Try again!
+
+>> Enter the secret password to login: U
+
+TRIED: V
+>> Encoded string is:	qvX/
+
+>> Try again!
+
+>> Enter the secret password to login: V
+
+TRIED: W
+>> Encoded string is:	qfX/
+
+>> Try again!
+
+>> Enter the secret password to login: W
+
+TRIED: X
+>> Encoded string is:	qPX/
+
+>> Try again!
+
+>> Enter the secret password to login: X
+
+TRIED: Y
+>> Encoded string is:	p/X/
+
+>> Try again!
+
+>> Enter the secret password to login: Y
+
+TRIED: Z
+>> Encoded string is:	pvX/
+
+>> Try again!
+
+>> Enter the secret password to login: Z
+
