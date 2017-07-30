@@ -25,7 +25,7 @@ Sky Pillar (Level 03)               |   300  |  Sky Pillar  |   Solved
 CSIT (Level 02)                     |   400  |  csit        |   
 Frobnicator                         |   400  |  Binary      |   
 Sky Pillar (Level 05)               |   400  |  Sky Pillar  |   
-The Great Bank Heist                |   400  |  hardware    |   
+[The Great Bank Heist]              |   400  |  hardware    |   
 The Last Knight                     |   500  |  Binary      |   
 Secrit Binary Donut Tuch            |   500  |  Binary      |   
 tastyriffs                          |   800  |  Binary      |   
@@ -43,6 +43,6 @@ tastyriffs                          |   800  |  Binary      |
 [Time to Take a Dump]: ./Solved/Time_to_Take_a_Dump-hardware_200
 [There is No Spoon]: ./Failed/There_is_No_Spoon-hardware_250
 [XCTF]: http://crossctf.com/
-
+[The Great Bank Heist]: ./Failed/The_Great_Bank_Heist-hardware_400
 
 ---

@@ -7,7 +7,7 @@
 NOTE: You need to fnish Time to Take a Dump first before you can attempt this challenge!
 
 ### Partial Solution
-This is a continuation of [Time to Take a Dump](../Solved/Time_to_Take_a_Dump-hardware_200).
+This is a continuation of [Time to Take a Dump](../../Solved/Time_to_Take_a_Dump-hardware_200).
 Now we have gotten the flag `CrossCTF{Bas364_1z_hard}`, we can enter it. 
 
 	Enter the secret password to login: CrossCTF{Bas364_1z_hard}
